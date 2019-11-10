@@ -1,0 +1,24 @@
+{
+  "name": "mock-io",
+  "version": "0.0.1",
+  "description": "Mock file to TC-53 IO testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtex/mock-io.git"
+  },
+  "keywords": [
+    "embedded",
+    "js",
+    "testing"
+  ],
+  "author": "Donovan Buck <donovan@donovan.bz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dtex/mock-io/issues"
+  },
+  "homepage": "https://github.com/dtex/mock-io#readme"
+}
