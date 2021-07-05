@@ -1,7 +1,7 @@
 {
   "name": "@dtex/mock-io",
-  "version": "0.0.5",
-  "description": "Mock file for TC-53 IO testing",
+  "version": "0.0.6",
+  "description": "Mock provider for ECMA-419 IO testing",
   "main": "index.js",
   "type": "module",
   "scripts": {
